@@ -9,4 +9,4 @@ This tool scans loaded drivers and checks them against a list of known vulnerabl
 - Flags drivers that may pose security risks.
 
 ## Usage:
-./evd.exe <list>
+./evd.exe `list`
